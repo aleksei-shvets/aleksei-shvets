@@ -1,6 +1,6 @@
 ### Hi there 👋
-##
-##
+//
+//
 Education
 - incomplete higher education MARTIT (Moscow Academy of Labor Market and Information Technologies) in the direction of "Economics and management at the enterprise" (2013 - 2015)
 - Hexlet course on profession Frontend developer (February 2023 - present)
