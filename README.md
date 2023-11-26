@@ -33,6 +33,7 @@
 <p align="left">- 🔭 I'm studying at Hexlet now.<br>- 📚 I'm currently learning web technologies<br>- ⚡In my free time, I do yoga and jogging</p>
 
 ###
+<hr>
 
 <h4 align="left">🛠 Skills and Tools</h4>
 
@@ -60,13 +61,7 @@
 
 ###
 
-<h4 align="left">🗂️ My portfolio</h4>
-
-###
-
-<p align="left">*[Brain Games](https://github.com/aleksei-shvets/brain-games)<br>*[Gendiff](https://github.com/aleksei-shvets/gendiff)</p>
-
-###
+<hr>
 
 <h4 align="left">🔥   Github Stats :</h4>
 
