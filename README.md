@@ -4,7 +4,9 @@ Hi 👋 My name is Aleksei Shvets
 Junior/Intern frontend developer
 --------------------------------
 
-I am an aspiring frontend developer, completing my training in this profession at Hexlet. Due to my long-time interest in programming and WEB industry I decided to change my field of activity and become a developer. At the moment I am taking a course at Hexlet on the profession of "Frontend developer", I also read professional literature, actively and comprehensively develop professional skills. In the course of my studies I am doing training projects, so far I have successfully completed two and am working on the third one. Education: incomplete higher education MARTIT (Moscow Academy of Labor Market and Information Technologies) in the direction of "Economics and management at the enterprise" (2013 - 2015) Additional education: Hexlet course on profession Frontend developer (February 2023 - present)
+I am an aspiring frontend developer, completing my training in this profession at Hexlet. Due to my long-time interest in programming and WEB industry I decided to change my field of activity and become a developer.  
+At the moment I am taking a course at Hexlet on the profession of "Frontend developer", I also read professional literature, actively and comprehensively develop professional skills. In the course of my studies I am doing training projects, so far I have successfully completed two and am working on the third one.  
+Education: incomplete higher education MARTIT (Moscow Academy of Labor Market and Information Technologies) in the direction of "Economics and management at the enterprise" (2013 - 2015) Additional education: Hexlet course on profession Frontend developer (February 2023 - present)
 
 * 🌍  I'm based in Mosсow
 * ✉️  You can contact me at [allinfome@yandex.ru](mailto:allinfome@yandex.ru)
