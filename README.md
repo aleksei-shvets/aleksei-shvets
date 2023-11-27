@@ -73,4 +73,15 @@
   <img src="https://streak-stats.demolab.com?user=aleksei-shvets&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+<hr>
+
 ###
+
+#### Codewars  
+[![codewars](https://www.codewars.com/users/aleksei-shvets/badges/large)](https://www.codewars.com/users/aleksei-shvets)
+
+<hr>
+
+###
+#### Leetcode  
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=aleksei-shvets&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
