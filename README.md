@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm studying at Hexlet now.<br>- 📚 I'm currently learning web technologies<br>- ⚡In my free time, I do yoga and jogging</p>
+<p align="left">- 🔭 I'm studying at Hexlet now.<br>- 📚 I'm currently learning web technologies<br>- ⚡ In my free time, I do yoga and jogging</p>
 
 ###
 <hr>
