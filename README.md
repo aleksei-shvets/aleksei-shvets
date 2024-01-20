@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am an aspiring frontend developer 👩🏻‍💻<br><br>Due to my long-time interest in programming and WEB industry I decided to change my field of activity and become a developer.<br><br>At the moment I am taking a course 🎓 at Hexlet on the profession of "Frontend developer", I also read professional literature, actively and comprehensively develop professional skills. In the course of my studies I am doing training projects, so far I have successfully completed two and am working on the third one.</p>
+<p align="left">I am an aspiring frontend developer 👩🏻‍💻<br><br>Due to my long-time interest in programming and WEB industry I decided to change my field of activity and become a developer.<br><br>At the moment I am taking a course 🎓 at Hexlet on the profession of "Frontend developer", I also read professional literature, actively and comprehensively develop professional skills. In the course of my studies I am doing training projects, so far I have successfully completed three and am working on the fourth.</p>
 
 ###
 
