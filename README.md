@@ -19,7 +19,12 @@
   <a href="https://t.me/ALEKSEY_SHWETS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  <a href="https://x.com/mad_neuron" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" alt="telegram logo"  />
+  </a>
 </div>
+
+###
 
 ###
 
@@ -31,11 +36,19 @@
 
 ###
 
-<p align="left">I am an aspiring frontend developer 👩🏻‍💻<br><br>Due to my long-time interest in programming and WEB industry I decided to change my field of activity and become a developer.<br><br>At the moment I am taking a course 🎓 at Hexlet on the profession of "Frontend developer", I also read professional literature, actively and comprehensively develop professional skills. In the course of my studies I am doing training projects, so far I have successfully completed three and am working on the fourth.</p>
+<p align="left">
+  I am an aspiring frontend developer 👩🏻‍💻<br>
+  Due to my longtime interest in programming and WEB industry, I decided to change my field and become a developer.<br>
+  At the moment I have finished a 🎓 course in Hexlet on “Frontend developer” profession, I also read professional literature, actively and comprehensively develop professional skills.
+</p>
 
 ###
 
-<p align="left">- 🔭 I'm studying at Hexlet now <br>- 📚 I'm currently learning web technologies<br>- ⚡ In my free time, I do yoga and jogging</p>
+<p align="left">
+  🔭 I am actively learning different technologies in web development<br>
+  📚 I also plan to study TypeScript in the near future<br>
+  ⚡ In my free time I do yoga<br>
+</p>
 
 ###
 <hr>
@@ -51,7 +64,11 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="32" alt="html5 logo"  />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="sass logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="32" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32" alt="redux logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="32" alt="jest logo"  />
   <img width="10" />
@@ -65,6 +82,7 @@
 </div>
 
 ###
+
 
 <hr>
 
