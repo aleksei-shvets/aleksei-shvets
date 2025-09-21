@@ -38,7 +38,7 @@
 ###
 
 <p align="left">
-  I am an aspiring software engineer / fullstack developer 👩🏻‍💻<br>
+  I am software engineer / fullstack developer 👩🏻‍💻<br>
   Due to my longtime interest in programming and WEB industry, I decided to change my field and become a developer.<br>
   At the moment I have finished a 🎓 course in Hexlet on “Frontend developer” profession, I also read professional literature, actively and comprehensively develop professional skills. I am currently working on a management reporting system as a fullstack developer. Its users will be decision-makers, directors, business owners, and managers. It is a system with microservice architecture and a micro-frontend. The technologies used are Python, React, PostgreSQL, RabbitMQ, Redis, Docker, Kubernetes, and module federation.
 </p>
