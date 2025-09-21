@@ -1,10 +1,11 @@
-<div align="center">
-  <img width="30%" src="https://i.gifer.com/KHp5.gif"  />
-</div>
+
 
 ###
 
-<div align="center" style="display: flex; flex-direction: r">
+<div align="center" style="display: flex; flex-direction: r, justify-content: space-between">
+  <div align="center">
+    <img width="30%" src="https://i.gifer.com/KHp5.gif"  />
+  </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=aleksei-shvets&show_icons=true&theme=transparent" height="200" alt="github stats"/>
   </div>
