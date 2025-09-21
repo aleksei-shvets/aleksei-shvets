@@ -1,11 +1,11 @@
-
+  <div align="center">
+    <img width="30%" src="https://i.gifer.com/KHp5.gif"  />
+  </div>
 
 ###
 
 <div align="center" style="display: flex; flex-direction: r, justify-content: space-between">
-  <div align="center">
-    <img width="30%" src="https://i.gifer.com/KHp5.gif"  />
-  </div>
+
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=aleksei-shvets&show_icons=true&theme=transparent" height="200" alt="github stats"/>
   </div>
@@ -38,7 +38,7 @@
 ###
 
 <p align="left">
-  I am an aspiring frontend developer 👩🏻‍💻<br>
+  I am an aspiring software engineer / fullstack developer 👩🏻‍💻<br>
   Due to my longtime interest in programming and WEB industry, I decided to change my field and become a developer.<br>
   At the moment I have finished a 🎓 course in Hexlet on “Frontend developer” profession, I also read professional literature, actively and comprehensively develop professional skills.
 </p>
